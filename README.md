@@ -2,7 +2,7 @@
 Recuperando Vidas 24h: Um site dedicado a fornecer apoio e recursos essenciais para a recuperação de vidas, oferecendo suporte 24 horas por dia, todos os dias.
 
 
-Recuperando Vidas 24h
+<h1>Recuperando Vidas 24h</h1>
 Bem-vindo ao repositório do projeto Recuperando Vidas 24h! Este é um site dedicado a fornecer apoio e recursos essenciais para pessoas em busca de recuperação.
 
 Funcionalidades
@@ -24,9 +24,8 @@ Contribuição
 Sinta-se à vontade para contribuir com o projeto! Seja através da correção de bugs, implementação de novas funcionalidades ou melhorias na interface, todas as contribuições são bem-vindas. Basta abrir uma "issue" para discutir suas ideias antes de enviar um "pull request".
 
 Equipe
-João da Silva (@joaosilva) - Desenvolvedor principal
-Maria Souza (@mariasouza) - Designer de Interface
-Pedro Santos (@pedrosantos) - Especialista em Banco de Dados
+celio monteiro - Desenvolvedor principal
+
 Licença
 Este projeto está licenciado sob a Licença MIT.
 
